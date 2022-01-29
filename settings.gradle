@@ -8,3 +8,6 @@ dependencyResolutionManagement {
 rootProject.name = "Labs_Android"
 include ':app'
 include ':lab_1'
+include ':lab_2'
+include ':continuewatch'
+include ':continuewatch2'
